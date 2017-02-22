@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="AppAccentBrush"
+                     Color="#FF9900" />
+    <SolidColorBrush x:Key="AppDisabledBackgroundBrush"
+                     Color="#E0E0E0"></SolidColorBrush>
+    <SolidColorBrush x:Key="AppDisabledTextBrush"
+                     Opacity="0.26"
+                     Color="#000000"></SolidColorBrush>
+    <Color x:Key="AppShadowColor">#AA000000</Color>
+</ResourceDictionary>
